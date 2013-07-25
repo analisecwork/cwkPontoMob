@@ -116,7 +116,7 @@ body {
 
 .Botoes {
     position:absolute;             /* position in the center of the screen */
-    left:20%;
+    left:40%;
     top:70%;
     height:50px;                   /* text area height */
     width:500px;                   /* text area width */
