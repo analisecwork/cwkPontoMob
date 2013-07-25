@@ -91,7 +91,7 @@ body {
 .DadosSuperiores {
     position:absolute;             /* position in the center of the screen */
     left:50%;
-    top:2%;
+    top:0%;
     height:50px;                   /* text area height */
     width:500px;                   /* text area width */
     text-align:left;
@@ -116,7 +116,7 @@ body {
 
 .Botoes {
     position:absolute;             /* position in the center of the screen */
-    left:40%;
+    left:35%;
     top:70%;
     height:50px;                   /* text area height */
     width:500px;                   /* text area width */
@@ -276,7 +276,7 @@ limitations under the License.
 .topcoat-button--large--quiet {
   font-size: 1.3rem;
   line-height: 4rem;
-    top: 0px;
+    top: -114px;
     left: 0px;
     width: 380px;
 }
