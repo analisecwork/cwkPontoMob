@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file is auto-generated, do not edit! -jm -->
+<CordovaSourceDictionary>
+    <FilePath Value="www\cordova.js"/>
+    <FilePath Value="www\index.html"/>
+    <FilePath Value="www\infUsuario.html"/>
+    <FilePath Value="www\css\index.css"/>
+    <FilePath Value="www\css\infUsuario.css"/>
+    <FilePath Value="www\css\topcoat-mobile-light.css"/>
+    <FilePath Value="www\img\avatar.png"/>
+    <FilePath Value="www\img\bg_dark.png"/>
+    <FilePath Value="www\img\breadcrumb.png"/>
+    <FilePath Value="www\img\checkbox_checked.png"/>
+    <FilePath Value="www\img\checkbox_checked_dark.png"/>
+    <FilePath Value="www\img\checkbox_unchecked.png"/>
+    <FilePath Value="www\img\checkbox_unchecked_dark.png"/>
+    <FilePath Value="www\img\checkmark_bw.svg"/>
+    <FilePath Value="www\img\dark-combo-box-bg.png"/>
+    <FilePath Value="www\img\dark-combo-box-bg2x.png"/>
+    <FilePath Value="www\img\dark-grips.png"/>
+    <FilePath Value="www\img\dark-sprites2x.png"/>
+    <FilePath Value="www\img\dialog-zone-bg.png"/>
+    <FilePath Value="www\img\drop-down-triangle-dark.png"/>
+    <FilePath Value="www\img\drop-down-triangle.png"/>
+    <FilePath Value="www\img\hamburger_bw.svg"/>
+    <FilePath Value="www\img\hamburger_dark.svg"/>
+    <FilePath Value="www\img\hamburger_light.svg"/>
+    <FilePath Value="www\img\light-combo-box-bg.png"/>
+    <FilePath Value="www\img\light-combo-box-bg2x.png"/>
+    <FilePath Value="www\img\light-grips.png"/>
+    <FilePath Value="www\img\light-sprites2x.png"/>
+    <FilePath Value="www\img\logo.png"/>
+    <FilePath Value="www\img\pop-up-triangle-dark.png"/>
+    <FilePath Value="www\img\pop-up-triangle.png"/>
+    <FilePath Value="www\img\search-bg.png"/>
+    <FilePath Value="www\img\search-bg2x.png"/>
+    <FilePath Value="www\img\search.svg"/>
+    <FilePath Value="www\img\search_bw.svg"/>
+    <FilePath Value="www\img\search_dark.svg"/>
+    <FilePath Value="www\img\search_light.svg"/>
+    <FilePath Value="www\img\spinner.png"/>
+    <FilePath Value="www\img\spinner2x.png"/>
+    <FilePath Value="www\js\cordova.js"/>
+    <FilePath Value="www\js\index.js"/>
+    <FilePath Value="www\js\jquery.js"/>
+    <FilePath Value="www\js\lawnchair.js"/>
+</CordovaSourceDictionary>

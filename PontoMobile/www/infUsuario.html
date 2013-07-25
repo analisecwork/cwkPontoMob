@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title>Informações do Usuário</title>
+    </head>
+
+      <!-- SCRIPTS -->
+        <script src="js/lawnchair.js"></script>
+        <script src="js/jquery.js"></script>
+        <script src="cordova.js"></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="css/infUsuario.css" />
+    <body>
+        <div class ="DadosSuperiores">
+               <script type ="text/javascript">
+                   var store = new Lawnchair({ name: 'pontoMB' }, function (store) {
+                       store.get('userInfo', function (me) {
+                           document.write(me.nome + '<br/>');
+                       });
+                   });
+               </script>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+               IMAGEM DO CARA  <br/>
+        </div>
+
+        <div class ="DadosInferiores">
+            <script type ="text/javascript">
+                var store = new Lawnchair({ name: 'pontoMB' }, function (store) {
+                    store.get('userInfo', function (me) {
+                        document.write('CPF: ' + me.cpf + '<br/>');
+                        document.write('Nascimento: ' + me.nasc + '<br/>');
+                        document.write('Pis: ' + me.pis + '<br/>');
+                        document.write('Função: ' + me.funcao + '<br/>');
+                        document.write('Empresa: ' + me.empresa + '<br/>');
+                    });
+                });
+               </script>
+        </div>
+
+        <div class="Botoes">
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <a class="topcoat-button--large" onclick="">Atualizar Cadastro</a>         <br/>
+            <br/>
+            <a class="topcoat-button--large" onclick="">Cartão Ponto</a>               <br/>
+            <br/>
+            <a class="topcoat-button--large" onclick="">Enviar Mensagem ao RH</a>      <br/>
+            <br/>
+            <a class="topcoat-button--large" onclick="">Notificações</a>               <br/>
+        </div>      
+    </body>
+</html>
