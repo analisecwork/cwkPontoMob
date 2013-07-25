@@ -2,8 +2,6 @@
 <!-- This file is auto-generated, do not edit! -jm -->
 <CordovaSourceDictionary>
     <FilePath Value="www\cordova.js"/>
-    <FilePath Value="www\index.html"/>
-    <FilePath Value="www\infUsuario.html"/>
     <FilePath Value="www\css\index.css"/>
     <FilePath Value="www\css\infUsuario.css"/>
     <FilePath Value="www\css\topcoat-mobile-light.css"/>
@@ -40,7 +38,8 @@
     <FilePath Value="www\img\search_light.svg"/>
     <FilePath Value="www\img\spinner.png"/>
     <FilePath Value="www\img\spinner2x.png"/>
-    <FilePath Value="www\js\cordova.js"/>
+    <FilePath Value="www\index.html"/>
+    <FilePath Value="www\infUsuario.html"/>
     <FilePath Value="www\js\index.js"/>
     <FilePath Value="www\js\jquery.js"/>
     <FilePath Value="www\js\lawnchair.js"/>
